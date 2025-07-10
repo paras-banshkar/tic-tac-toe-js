@@ -20,3 +20,9 @@ A simple, interactive browser-based **Tic Tac Toe** game built using **HTML**, *
 - CSS3 for styling and layout  
 - JavaScript (DOM manipulation, game logic)  
 - Audio and GIF for interactive UX  
+## How to Run
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/tic-tac-toe-js.git
+   cd tic-tac-toe-js
